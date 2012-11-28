@@ -2,3 +2,6 @@ This library contains the externs needed to use the Atari Arcade SDK with the Ha
 
 http://atari.com/arcade
 http://haxe.org
+
+This library relies on the createHX externs for createJS:
+https://github.com/pixels4nickels/createHX
