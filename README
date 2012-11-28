@@ -1,1 +1,4 @@
-This file was created by IntelliJ IDEA (Leda) IU-122.746 for binding GitHub repository
+This library contains the externs needed to use the Atari Arcade SDK with the Haxe programming language
+
+http://atari.com/arcade
+http://haxe.org
